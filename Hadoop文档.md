@@ -18,9 +18,7 @@ https://blog.csdn.net/weixin_43145299/article/details/82495680
 
 https://blog.csdn.net/u010270403/article/details/51446674/
 
-
-
-
+mim:1****1
 
 # Linux服务器安装jdk-8u144-linux-x64.tar.gz JDK1.8详解
 
