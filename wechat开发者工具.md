@@ -6,7 +6,7 @@ https://developers.weixin.qq.com/ebook?action=get_post_info&docid=000846df9a0390
 
 1.openId失败（点击获取openid，失败后，需要上传并部署：）
 
-<img src="/Users/ningli/Library/Application Support/typora-user-images/image-20210126111418516.png" alt="image-20210126111418516" style="zoom:50%;" />
+<img src="https://i.loli.net/2021/02/04/UE7b814ztZpyTDs.png" alt="image-20210126111418516" style="zoom:50%;" />
 
 
 
