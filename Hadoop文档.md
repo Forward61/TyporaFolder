@@ -20,6 +20,21 @@ https://blog.csdn.net/u010270403/article/details/51446674/
 
 mim:1****1
 
+ip地址
+
+node 1:192.168.48.128
+
+
+
+
+
+
+
+
+
+
+
 # Linux服务器安装jdk-8u144-linux-x64.tar.gz JDK1.8详解
 
 https://blog.csdn.net/gelusheng123456/article/details/79697060
+

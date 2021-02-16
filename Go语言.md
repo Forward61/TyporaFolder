@@ -68,3 +68,21 @@ go build main.go
 程序中可能会使用到这些分隔符：括号 ()，中括号 [] 和大括号 {}。
 
 程序中可能会使用到这些标点符号：.、,、;、: 和 …。
+
+
+
+
+
+
+
+##### Idea配置 go环境
+
+https://www.cnblogs.com/super-admin/p/12849391.html
+
+注意配置GOPATH
+
+![image-20210216222439132](https://i.loli.net/2021/02/16/Kf8i4oYUZxWCq2u.png)
+
+和GOROOT
+
+![image-20210216222611174](https://i.loli.net/2021/02/16/ULPsIT3gDHJiBe9.png)
