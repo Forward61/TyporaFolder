@@ -77,7 +77,17 @@ go build main.go
 
 ##### Idea配置 go环境
 
+
+
+![image-20210218090716077](https://i.loli.net/2021/02/18/9E1CcZT8hvAV4bl.png)
+
+![image-20210218091006674](https://i.loli.net/2021/02/18/wzsr6xleTSkgqXV.png)
+
 https://www.cnblogs.com/super-admin/p/12849391.html
+
+***去掉自己设置的GOPATH，点击-号（减号）。使用默认的，Default。***
+
+
 
 注意配置GOPATH
 
@@ -86,3 +96,4 @@ https://www.cnblogs.com/super-admin/p/12849391.html
 和GOROOT
 
 ![image-20210216222611174](https://i.loli.net/2021/02/16/ULPsIT3gDHJiBe9.png)
+
