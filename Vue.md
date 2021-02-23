@@ -80,7 +80,27 @@ https://www.jianshu.com/p/118f4df11e09
 
 
 
+# vue中常用的几种import（模块、文件）引入方式，export，export default，全部/部分文件的导出/导入
 
+https://blog.csdn.net/qq_40323256/article/details/101867706
+
+# VUEJS入坑日记.3--import ,export,export default
+
+https://blog.csdn.net/weixin_33734979/article/details/82970544?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control&dist_request_id=06797b3e-2843-4758-97ec-772a43a0315d&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control
+
+
+
+
+
+
+
+# git恢复被修改的文件
+
+https://blog.csdn.net/qq_28867949/article/details/79497583?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control&dist_request_id=3c5cc422-2d90-462e-8c37-c3f370ff3f9d&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control
+
+
+
+# vue中，xml字符串格式化展示在页面
 
 
 
